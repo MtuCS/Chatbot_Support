@@ -11,7 +11,8 @@ from fastapi import FastAPI
 
 app = FastAPI()
 
-
+port = int(os.environ.get("PORT", 8000))  # Lấy PORT từ Railway hoặc mặc định 8000
+uvicorn.run(app, host="0.0.0.0", port=port)
 # Load biến môi trường
 load_dotenv()
 openai_api_key = os.getenv("OPENAI_API_KEY")
