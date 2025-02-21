@@ -6,3 +6,4 @@ python-dotenv
 openai
 chromadb
 PyMuPDF
+gunicorn
