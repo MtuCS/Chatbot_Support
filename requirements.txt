@@ -21,7 +21,7 @@ certifi==2024.12.14
 cffi==1.17.1
 charset-normalizer==3.4.1
 chroma-hnswlib==0.7.6
-chromadb>=0.5.23
+chromadb==0.6.3
 ci-info==0.3.0
 clarifai==10.11.1
 clarifai-grpc==11.1.1
@@ -141,7 +141,7 @@ nodeenv==1.9.1
 numpy==1.26.4
 oauthlib==3.2.2
 onnxruntime==1.20.1
-openai>=1.13.3
+openai==0.28.0
 opencv-python==4.10.0.84
 openpyxl==3.1.5
 opentelemetry-api==1.30.0
@@ -211,7 +211,7 @@ python-rapidjson==1.20
 pytube==15.0.0
 pytz==2025.1
 pyvis==0.3.2
-
+pywin32==308
 pyxnat==1.6.3
 PyYAML==6.0.2
 pyzmq==26.2.0
