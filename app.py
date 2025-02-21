@@ -7,6 +7,10 @@ import fitz  # PyMuPDF
 import openai
 import chromadb
 from dotenv import load_dotenv
+from fastapi import FastAPI
+
+app = FastAPI()
+
 
 # Load biến môi trường
 load_dotenv()
