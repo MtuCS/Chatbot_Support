@@ -1,2 +1,5 @@
 web: uvicorn app:app --host 0.0.0.0 --port $PORT
+<<<<<<< HEAD
 
+=======
+>>>>>>> fda0e7a (cập nhật req)
