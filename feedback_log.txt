@@ -1,0 +1,37 @@
+Question: Hướng dẫn tôi tạo chữ ký email theo form của công ty, Answer: Để tạo chữ ký email theo form của công ty, bạn cần thực hiện các bước sau:
+
+1. Truy cập vào link https://www.mail-signatures.com/signature-generator/#/user-data
+2. Chọn định dạng Email là Outlook
+3. Chọn kiểu chữ ký theo yêu cầu của công ty hoặc theo sở thích cá nhân
+4. Điền thông tin vào các trường theo mẫu công ty cung cấp, bao gồm:
+   - Đường dẫn hình ảnh
+   - Đường, Feedback: Incorrect
+Question: , Answer: Thông tin được cung cấp cho thấy Mai Thu là một công ty sản xuất bao bì đã có kinh nghiệm hơn 20 năm, có trụ sở tại Việt Nam và cung cấp nhiều sản phẩm đa dạng trong ngành bao bì giấy. Công ty chú trọng vào chất lượng sản phẩm cao và dịch vụ chuyên nghiệp để đáp ứng mọi yêu cầu của khách hàng. Mai Thu không chỉ cung cấp giải pháp bao bì mà cò, Feedback: Incorrect
+Question: các sản phẩm/ ngành nghề chính của công ty là gì, Answer: Công ty Cổ phần Bao Bì Mai Thư chuyên sản xuất các sản phẩm bao bì giấy in offset cho các ngành công nghiệp khác nhau như bao bì công nghiệp, bao bì nước giải khát, bao bì gia dụng, bao bì cho nông sản, bao bì cho thực phẩm và nhiều sản phẩm bao bì khác. Ngoài ra, công ty cũng kinh doanh các sản phẩm công nghiệp giấy, xuất nhập khẩu nguyên liệu vật tư ngành bao, Feedback: Incorrect
+Question: công ty tên đầy đủ là gì, Answer: Tên đầy đủ của công ty là Công ty Cổ phần Bao Bì Mai Thư., Feedback: Incorrect
+Question: , Answer: Câu hỏi không được cung cấp rõ ràng trong văn bản. Bạn có thể cung cấp câu hỏi cụ thể để tôi có thể trả lời được không?, Feedback: Incorrect
+Question: Introduce me to the company's organizational structure, Answer: Công ty Cổ phần Bao Bì Mai Thư có tổ chức theo mô hình phòng ban và nhóm chức năng. Dưới đây là cấu trúc tổ chức của công ty:
+
+1. Ban Giám Đốc:
+   - Tổng Giám Đốc: Nguyễn Mai Minh Thư
+   - Giám Đốc Sản Xuất: Nguyễn Mai Quế Chi
+
+2. Bộ phận Hành chính Nhân sự:
+   - Giám Đốc Hành chính Nhân sự: Huỳnh Vũ B, Feedback: Incorrect
+Question: Xin chaof, Answer: Xin chào! Có điều gì tôi có thể giúp bạn?, Feedback: Incorrect
+Question: , Answer: Vui lòng cung cấp câu hỏi cụ thể để tôi có thể trợ giúp bạn tốt hơn từ thông tin đã cho., Feedback: Incorrect
+Question: Sứ mệnh của công ty là gì, Answer: Sứ mệnh của Công ty Cổ phần Bao Bì Mai Thư là "Hướng đến giải pháp, chia sẻ và đồng hành trong nghiên cứu và phát triển sản phẩm chất lượng và tối ưu, luôn xem đối tác là bạn và cùng bạn tìm ra những lợi ích giá trị nhất trong từng sản phẩm.", Feedback: Incorrect
+Question: , Answer: Thông tin trên cho thấy Mai Thu là một công ty sản xuất bao bì với hơn 20 năm kinh nghiệm, tập trung vào việc cung cấp giải pháp bao bì đa dạng và thiết kế sáng tạo cho khách hàng. Công ty này có trụ sở ở Việt Nam và sản xuất nhiều loại hộp đựng thức ăn mang đi, hộp pizza, túi bánh mì, tay cầm, đồ chơi bằng giấy, giấy, Feedback: Incorrect
+Question: bạn có thông tin gì về Nhà Xe Trang Hòa không, Answer: Xin lỗi, dữ liệu mà bạn cung cấp không chứa thông tin về Nhà Xe Trang Hòa. Bạn có thể cung cấp thêm thông tin cụ thể để tôi có thể hỗ trợ bạn tốt hơn được không?, Feedback: Incorrect
+Question: what about  Cup carrier tray, Answer: Cup carrier tray is one of the products in Mai Thu's product range. It is made from white kraft and brown kraft with a paper weight of 350gsm. The printing method used for Cup carrier tray is Offset/Flexo, and it comes in a style with 2 cups or 4 cups., Feedback: Incorrect
+Question: and bread bag, Answer: Bread bag., Feedback: Incorrect
+Question: Do mai thu packaging produce toys for kids?, Answer: Dựa vào thông tin đã cung cấp, Mai Thu Packaging sản xuất những sản phẩm như hộp đựng thức ăn mang đi, hộp bánh pizza, túi bánh mỳ, đồ dùng giấy và phụ kiện, đồ chơi nhà giấy cho trẻ em, nhà cho thú cưng và bộ đồ chơi dành cho trẻ em. Vì vậy, có thể nói rằng Mai Thu Packaging sản xuất đồ chơi cho trẻ em., Feedback: Incorrect
+Question: những đồ chơi nào được sản xuất bởi mai thư, Answer: Công ty Cổ phần Bao Bì Mai Thư sản xuất các sản phẩm bao bì giấy in offset, bao bì giấy in offset bồi carton, bao bì giấy carton, bao bì giấy cho thực phẩm, sản phẩm giấy gói quà, cũng như các sản phẩm công nghiệp giấy khác., Feedback: Incorrect
+Question: Liệt kê đầy đủ tất cả phúc lợi của công ty, Answer: Công ty Cổ phần Bao Bì Mai Thư cung cấp các chính sách và chế độ phúc lợi sau cho nhân viên:
+
+1. Thưởng các dịp Lễ lớn như Ngày Quốc tế Phụ nữ 8/3, Lễ Hùng Vương và 30/04 - 01/05, Lễ Quốc Khánh 2/9, Tết Dương Lịch với mức thưởng khác nhau tùy theo thâm niên làm việc tại công ty.
+2. Hỗ tr, Feedback: Incorrect
+Question: gói bảo hiểm sức khỏe của công ty như thế nào, Answer: Công ty Cổ phần Bao Bì Mai Thư có các gói bảo hiểm sức khỏe như sau:
+- Gói số 1: Dành cho cán bộ, công nhân viên có thâm niên từ 1 đến 5 năm với mức phí 2.556.000 VNĐ/người.
+- Gói số 2: Dành cho cán bộ, công nhân viên có thâm niên từ 5 đến 10 năm với mức phí 4.725.000 VNĐ/người.
+- Gói số 3: Dành cho cán bộ, Feedback: Incorrect
